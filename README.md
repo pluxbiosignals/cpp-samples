@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a small example on how to use PLUX's CPP API to find, connect and adquire data, using either the internal bluetooth connection or using our [Fast USB Adaptor](https://plux.info/biosignalsplux-accessories/371-fast-usb-data-transfer-cable-for-biosignalsplux-820201514.html) (only for windows).
+This repository contains a small example on how to use PLUX's CPP API to find, connect and adquire data, using either the internal bluetooth connection or using our [Fast USB Adapter](https://plux.info/biosignalsplux-accessories/371-fast-usb-data-transfer-cable-for-biosignalsplux-820201514.html) (only for Windows).
 
 ## Contents
 In this repository you can find:
